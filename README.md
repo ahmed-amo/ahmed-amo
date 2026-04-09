@@ -13,10 +13,9 @@ On the backend, I design and ship Laravel and FastAPI services with solid databa
 Very intersted in DevOps engineering. Every project I ship is fully Dockerized, with multi-stage builds, environment isolation, and clean container orchestration. I set up GitHub Actions CI/CD pipelines that run tests, build images, and deploy automatically — to Railway, VPS via Nginx, or cloud platforms. I treat infrastructure as code and deployments as a first-class concern, not an afterthought.
 
 I'm equally comfortable training a classification model in Scikit-Learn, integrating an AI microservice into a multi-tenant platform, or debugging a failing GitHub Actions workflow at midnight.
-## 🛠 Tech Stack
 
 ## 🛠 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=ts,js,python,php,cpp,html,css,dart,laravel,fastapi,nodejs,express,django,graphql,redis,nginx,nextjs,react,redux,tailwind,bootstrap,mui,flutter,postgres,mysql,mongodb,supabase,tensorflow,pytorch,sklearn,opencv,docker,kubernetes,githubactions,jenkins,aws,gcp,azure,vercel,git,github,postman,jest,jira,figma,vscode,linux&perline=10" />
+<img src="https://skillicons.dev/icons?i=ts,js,python,php,cpp,html,css,dart,laravel,fastapi,redis,nginx,nextjs,react,tailwind,bootstrap,mui,flutter,chatgbt,claude,cursor,postgres,mysql,supabase,tensorflow,pytorch,sklearn,opencv,docker,githubactions,aws,gcp,vercel,git,github,postman,figma,vscode,linux&perline=10" />
 </p>
