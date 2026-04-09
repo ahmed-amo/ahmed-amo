@@ -17,7 +17,7 @@ I'm equally comfortable training a classification model in Scikit-Learn, integra
 ## 🛠 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=ts,js,python,php,cpp,html,css,dart,laravel,fastapi,redis,nginx,nextjs,react,tailwind,bootstrap,mui,flutter,postgres,mysql,supabase,tensorflow,sklearn,docker,githubactions,aws,vercel,git,github,postman,figma,vscode,linux&perline=10" />
+<img src="https://skillicons.dev/icons?i=ts,js,python,php,cpp,html,css,dart,laravel,fastapi,redis,nginx,nextjs,react,tailwind,bootstrap,flutter,postgres,mysql,supabase,tensorflow,sklearn,docker,githubactions,aws,vercel,git,github,postman,figma,vscode,linux&perline=10" />
 </p>
 
 <p align="center">
