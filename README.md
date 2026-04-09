@@ -26,3 +26,9 @@ I also integrate AI/ML when needed, using Python and Scikit-Learn microservices 
 <img src="https://img.shields.io/badge/CI/CD-222222?style=for-the-badge&logo=githubactions&logoColor=white"/>
 <img src="https://avatars.githubusercontent.com/u/47703742?s=200&v=4" width="48" />
 </p>
+
+## 🏆 GitHub Stats
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=ahmed-amo&theme=tokyonight&hide_border=true" />
+</p>
