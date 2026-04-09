@@ -1,4 +1,4 @@
-<h1 align="center">⚙️ Full-Stack Engineer | Laravel · Next.js · Flutter · AI/ML · DevOps ⚙️</h1>
+<h1 align="center">⚙️ Full-Stack Engineer | Laravel · Next.js · Flutter · AI/ML · DevOps </h1>
 
 <p align="center">
 🌍 Algeria — Open to Remote (EU / US / GCC) &nbsp;·&nbsp; 📧 amokrane.ahmed10@gmail.com &nbsp;·&nbsp; 💼 <a href="https://www.linkedin.com/in/ahmed-amokrane-95122334b/">LinkedIn</a>
