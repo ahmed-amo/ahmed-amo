@@ -17,5 +17,16 @@ I'm equally comfortable training a classification model in Scikit-Learn, integra
 ## 🛠 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=ts,js,python,php,cpp,html,css,dart,laravel,fastapi,redis,nginx,nextjs,react,tailwind,bootstrap,mui,flutter,chatgbt,claude,cursor,postgres,mysql,supabase,tensorflow,pytorch,sklearn,opencv,docker,githubactions,aws,gcp,vercel,git,github,postman,figma,vscode,linux&perline=10" />
+<img src="https://skillicons.dev/icons?i=ts,js,python,php,cpp,html,css,dart,laravel,fastapi,redis,nginx,nextjs,react,tailwind,bootstrap,mui,flutter,postgres,mysql,supabase,tensorflow,sklearn,docker,githubactions,aws,vercel,git,github,postman,figma,vscode,linux&perline=10" />
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white"/>
+<img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/>
+<img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white"/>
+<img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/>
+<img src="https://img.shields.io/badge/CI/CD-222222?style=for-the-badge&logo=githubactions&logoColor=white"/>
 </p>
