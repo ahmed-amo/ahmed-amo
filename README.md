@@ -6,14 +6,9 @@
 
 ---
 
-I'm a Full-Stack Engineer specializing in production-grade SaaS platforms, with a strong focus on clean architecture, scalable backends, and automated deployment pipelines. I build systems that are reliable from day one — and stay that way as they grow.
-
-On the backend, I design and ship Laravel and FastAPI services with solid database schemas, JWT/OAuth2 authentication, role-based permissions, and queue-driven async processing. On the frontend, I craft fast, responsive interfaces with Next.js 14 and React, and build cross-platform mobile apps with Flutter.
-
-Very intersted in DevOps engineering. Every project I ship is fully Dockerized, with multi-stage builds, environment isolation, and clean container orchestration. I set up GitHub Actions CI/CD pipelines that run tests, build images, and deploy automatically — to Railway, VPS via Nginx, or cloud platforms. I treat infrastructure as code and deployments as a first-class concern, not an afterthought.
-
-I'm equally comfortable training a classification model in Scikit-Learn, integrating an AI microservice into a multi-tenant platform, or debugging a failing GitHub Actions workflow at midnight.
-
+I'm a Full-Stack Engineer focused on building scalable SaaS platforms and production-ready systems. I work across the stack using Laravel, FastAPI, React, Inertia.js, Next.js, and Flutter, designing clean APIs, responsive interfaces, and reliable backends.
+I'm also interested in DevOps, and I usually Dockerize my projects and set up CI/CD pipelines with GitHub Actions, deploying to Railway, VPS environments with Nginx, or cloud platforms.
+I also integrate AI/ML when needed, using Python and Scikit-Learn microservices to add intelligent features to real-world applications.
 ## 🛠 Tech Stack
 
 <p align="center">
@@ -29,4 +24,5 @@ I'm equally comfortable training a classification model in Scikit-Learn, integra
 <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white"/>
 <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/>
 <img src="https://img.shields.io/badge/CI/CD-222222?style=for-the-badge&logo=githubactions&logoColor=white"/>
+<img src="https://avatars.githubusercontent.com/u/47703742?s=200&v=4" width="48" />
 </p>
