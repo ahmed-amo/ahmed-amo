@@ -15,46 +15,8 @@ Very intersted in DevOps engineering. Every project I ship is fully Dockerized, 
 I'm equally comfortable training a classification model in Scikit-Learn, integrating an AI microservice into a multi-tenant platform, or debugging a failing GitHub Actions workflow at midnight.
 ## 🛠 Tech Stack
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+## 🛠 Tech Stack
 
-<div align="center">
-<img src="https://skillicons.dev/icons?i=ts" width="48"/><br>TypeScript
-</div>
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=js" width="48"/><br>JavaScript
-</div>
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=python" width="48"/><br>Python
-</div>
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=php" width="48"/><br>PHP
-</div>
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=cpp" width="48"/><br>C++
-</div>
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=html" width="48"/><br>HTML5
-</div>
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=css" width="48"/><br>CSS3
-</div>
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=dart" width="48"/><br>Dart
-</div>
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=laravel" width="48"/><br>Laravel
-</div>
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=fastapi" width="48"/><br>FastAPI
-</div>
-
-</div>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=ts,js,python,php,cpp,html,css,dart,laravel,fastapi,nodejs,express,django,graphql,redis,nginx,nextjs,react,redux,tailwind,bootstrap,mui,flutter,postgres,mysql,mongodb,supabase,tensorflow,pytorch,sklearn,opencv,docker,kubernetes,githubactions,jenkins,aws,gcp,azure,vercel,git,github,postman,jest,jira,figma,vscode,linux&perline=10" />
+</p>
