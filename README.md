@@ -1,9 +1,16 @@
 <h1 align="center">⚙️ Full-Stack Engineer | Laravel · Next.js · Flutter · AI/ML · DevOps </h1>
 
 <p align="center">
-🌍 Algeria — Open to Remote (EU / US / GCC) &nbsp;·&nbsp; 📧 amokrane.ahmed10@gmail.com &nbsp;·&nbsp; 💼 <a href="https://www.linkedin.com/in/ahmed-amokrane-95122334b/">LinkedIn</a>
+🌍 Algeria — Open to Remote (EU / US / GCC)
 </p>
 
+<p align="center">
+🚀 <a href="https://ahmed-amo-dev.vercel.app">View My Portfolio</a>
+</p>
+
+<p align="center">
+📧 amokrane.ahmed10@gmail.com &nbsp;·&nbsp; 💼 <a href="https://www.linkedin.com/in/ahmed-amokrane-95122334b/">LinkedIn</a>
+</p>
 ---
 
 I'm a Full-Stack Engineer focused on building scalable SaaS platforms and production-ready systems. I work across the stack using Laravel, FastAPI, React, Inertia.js, Next.js, and Flutter, designing clean APIs, responsive interfaces, and reliable backends.
