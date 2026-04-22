@@ -11,8 +11,6 @@
 <p align="center">
 📧 amokrane.ahmed10@gmail.com &nbsp;·&nbsp; 💼 <a href="https://www.linkedin.com/in/ahmed-amokrane-95122334b/">LinkedIn</a>
 </p>
----
-
 I'm a Full-Stack Engineer focused on building scalable SaaS platforms and production-ready systems. I work across the stack using Laravel, FastAPI, React, Inertia.js, Next.js, and Flutter, designing clean APIs, responsive interfaces, and reliable backends.
 I'm also interested in DevOps, and I usually Dockerize my projects and set up CI/CD pipelines with GitHub Actions, deploying to Railway, VPS environments with Nginx, or cloud platforms.
 I also integrate AI/ML when needed, using Python and Scikit-Learn microservices to add intelligent features to real-world applications.
