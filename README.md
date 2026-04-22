@@ -1,4 +1,4 @@
-<h1 align="center">⚙️ Full-Stack Engineer | Laravel · Next.js · Flutter · AI/ML · DevOps </h1>
+<h1 align="center"> Full-Stack Engineer | Laravel · Next.js · Flutter · AI/ML · DevOps </h1>
 
 <p align="center">
 🌍 Algeria — Open to Remote (EU / US / GCC)
