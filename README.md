@@ -1,9 +1,9 @@
 <h1 align="center">
-Full-Stack Engineer | SaaS & Distributed Systems Builder
+Full-Stack Engineer | SaaS Systems | Cloud & DevOps Enthusiast
 </h1>
 
 <p align="center">
-Node.js · NestJS · Laravel · React · Next.js · React Native · PostgreSQL · Docker · AWS
+Node.js · NestJS · Laravel · React · Next.js · React Native · PostgreSQL · Docker · AWS · Kubernetes · GitOps
 </p>
 
 <p align="center">
@@ -24,66 +24,67 @@ Node.js · NestJS · Laravel · React · Next.js · React Native · PostgreSQL �
 
 ## 👨‍💻 About
 
-I am a Full-Stack Engineer focused on designing and building **scalable SaaS platforms, backend systems, and production-grade applications**.
+I am a Full-Stack Engineer focused on building **scalable SaaS platforms and production-grade systems**.
 
-I specialize in building systems from the ground up:
-- backend architecture
-- APIs & database design
-- frontend applications
-- deployment & infrastructure
+I work across the entire software lifecycle:
+- backend architecture & APIs  
+- frontend & mobile applications  
+- deployment & cloud infrastructure  
+- CI/CD & production systems  
 
-My focus is always on **scalability, maintainability, and real-world usage**.
+My focus is always **scalability, clean architecture, and real-world production readiness**.
 
 ---
 
 ## ⚙️ Engineering Focus
 
-### Backend & System Design
-- RESTful API design (NestJS / Laravel)
-- Multi-tenant SaaS architecture
-- Authentication & RBAC systems
-- Background jobs & queues
+### Backend Systems
+- NestJS / Laravel API architecture
+- Multi-tenant SaaS design
+- Authentication, RBAC, security layers
+- Queues & background processing
 - Database design (PostgreSQL / MySQL)
 
 ### Frontend & Mobile
-- React / Next.js production apps
-- React Native mobile applications
-- Dashboard & admin systems
-- Performance-optimized UI
+- React / Next.js applications
+- React Native mobile apps
+- SaaS dashboards & admin systems
 
-### Cloud & DevOps
+### Cloud / DevOps / Platform Engineering
 - Docker containerization
 - CI/CD pipelines (GitHub Actions)
-- Linux VPS deployments (Nginx)
-- AWS fundamentals (S3, hosting workflows)
-- Monitoring & observability concepts (Grafana, logs, metrics)
-- Kubernetes (actively learning for distributed systems)
+- Kubernetes (learning & applying)
+- GitOps workflows (ArgoCD concepts)
+- AWS (S3, deployment & scaling)
+- Linux VPS + Nginx production deployments
+- Observability (logging, monitoring, Grafana concepts)
 
 ---
 
+## 🧠 Engineering Mindset
 
-## 🚀 What I Build
-
-- SaaS platforms (multi-tenant systems, billing, dashboards)
-- Backend-heavy architectures
-- Real production systems for businesses
-- Mobile + web ecosystems
-- API-first scalable products
+- I build systems, not just applications  
+- I focus on scalability and maintainability  
+- I think in architecture, not just features  
+- I prioritize production readiness  
+- I continuously evolve toward cloud & distributed systems  
 
 ---
 
 ## 🧰 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=ts,js,python,php,nodejs,nestjs,laravel,fastapi,react,nextjs,reactnative,postgres,mysql,redis,docker,githubactions,aws,nginx,linux,git,github,postman&perline=11" />
+<img src="https://skillicons.dev/icons?i=ts,js,python,php,nodejs,nestjs,laravel,fastapi,react,nextjs,reactnative,postgres,mysql,redis,docker,kubernetes,githubactions,aws,nginx,linux,git,github,postman&perline=11" />
 </p>
 
 ---
 
-## 📌 Current Direction
+## 📊 GitHub Stats
 
-I am actively growing toward:
-- Cloud / DevOps engineering
-- Distributed systems design
-- Scalable backend architecture
-- Production-grade SaaS infrastructure
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ahmed-amo&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ahmed-amo&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
