@@ -1,40 +1,89 @@
-<h1 align="center"> Full-Stack Engineer | Laravel · Next.js · Flutter · AI/ML · DevOps </h1>
+<h1 align="center">
+Full-Stack Engineer | SaaS & Distributed Systems Builder
+</h1>
+
+<p align="center">
+Node.js · NestJS · Laravel · React · Next.js · React Native · PostgreSQL · Docker · AWS
+</p>
 
 <p align="center">
 🌍 Algeria — Open to Remote (EU / US / GCC)
 </p>
 
 <p align="center">
-🚀 <a href="https://ahmed-amo-dev.vercel.app">View My Portfolio</a>
+<a href="https://ahmed-amo-dev.vercel.app">Portfolio</a>
+&nbsp;·&nbsp;
+<a href="https://github.com/ahmed-amo">GitHub</a>
+&nbsp;·&nbsp;
+<a href="https://www.linkedin.com/in/ahmed-amokrane-95122334b/">LinkedIn</a>
+&nbsp;·&nbsp;
+<a href="mailto:amokrane.ahmed10@gmail.com">Email</a>
 </p>
+
+---
+
+## 👨‍💻 About
+
+I am a Full-Stack Engineer focused on designing and building **scalable SaaS platforms, backend systems, and production-grade applications**.
+
+I specialize in building systems from the ground up:
+- backend architecture
+- APIs & database design
+- frontend applications
+- deployment & infrastructure
+
+My focus is always on **scalability, maintainability, and real-world usage**.
+
+---
+
+## ⚙️ Engineering Focus
+
+### Backend & System Design
+- RESTful API design (NestJS / Laravel)
+- Multi-tenant SaaS architecture
+- Authentication & RBAC systems
+- Background jobs & queues
+- Database design (PostgreSQL / MySQL)
+
+### Frontend & Mobile
+- React / Next.js production apps
+- React Native mobile applications
+- Dashboard & admin systems
+- Performance-optimized UI
+
+### Cloud & DevOps
+- Docker containerization
+- CI/CD pipelines (GitHub Actions)
+- Linux VPS deployments (Nginx)
+- AWS fundamentals (S3, hosting workflows)
+- Monitoring & observability concepts (Grafana, logs, metrics)
+- Kubernetes (actively learning for distributed systems)
+
+---
+
+
+## 🚀 What I Build
+
+- SaaS platforms (multi-tenant systems, billing, dashboards)
+- Backend-heavy architectures
+- Real production systems for businesses
+- Mobile + web ecosystems
+- API-first scalable products
+
+---
+
+## 🧰 Tech Stack
 
 <p align="center">
-📧 amokrane.ahmed10@gmail.com &nbsp;·&nbsp; 💼 <a href="https://www.linkedin.com/in/ahmed-amokrane-95122334b/">LinkedIn</a>
-</p>
-I'm a Full-Stack Engineer focused on building scalable SaaS platforms and production-ready systems. I work across the stack using Laravel, FastAPI, React, Inertia.js, Next.js, and Flutter, designing clean APIs, responsive interfaces, and reliable backends.
-I'm also interested in DevOps, and I usually Dockerize my projects and set up CI/CD pipelines with GitHub Actions, deploying to Railway, VPS environments with Nginx, or cloud platforms.
-I also integrate AI/ML when needed, using Python and Scikit-Learn microservices to add intelligent features to real-world applications
-
-
-## 🛠 Tech Stack
-<p align="center">
-<img src="https://skillicons.dev/icons?i=ts,js,python,php,cpp,html,css,dart,laravel,fastapi,redis,nginx,nextjs,react,tailwind,bootstrap,flutter,postgres,mysql,supabase,tensorflow,sklearn,docker,githubactions,aws,vercel,git,github,postman,figma,vscode,linux&perline=10" />
+<img src="https://skillicons.dev/icons?i=ts,js,python,php,nodejs,nestjs,laravel,fastapi,react,nextjs,reactnative,postgres,mysql,redis,docker,githubactions,aws,nginx,linux,git,github,postman&perline=11" />
 </p>
 
-<p align="center">
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white"/>
-<img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/>
-<img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white"/>
-<img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/>
-<img src="https://img.shields.io/badge/CI/CD-222222?style=for-the-badge&logo=githubactions&logoColor=white"/>
-<img src="https://avatars.githubusercontent.com/u/47703742?s=200&v=4" width="48" />
-</p>
+---
 
-## 🏆 GitHub Stats
+## 📌 Current Direction
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=ahmed-amo&theme=tokyonight&hide_border=true" />
-</p>
+I am actively growing toward:
+- Cloud / DevOps engineering
+- Distributed systems design
+- Scalable backend architecture
+- Production-grade SaaS infrastructure
