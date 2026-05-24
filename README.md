@@ -61,15 +61,6 @@ My focus is always **scalability, clean architecture, and real-world production 
 
 ---
 
-## 🧠 Engineering Mindset
-
-- I build systems, not just applications  
-- I focus on scalability and maintainability  
-- I think in architecture, not just features  
-- I prioritize production readiness  
-- I continuously evolve toward cloud & distributed systems  
-
----
 
 ## 🧰 Tech Stack
 
