@@ -94,6 +94,4 @@ A modern marketplace featuring product browsing, shopping cart, secure checkout,
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ahmed-amo&theme=tokyonight&hide_border=true" />
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmed-amo&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+
