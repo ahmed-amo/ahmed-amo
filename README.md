@@ -58,26 +58,24 @@ I enjoy owning features end-to-end — from clean backend architecture and APIs 
 ## 🛠️ Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,react,nextjs,postgres,docker,aws,laravel,php,redis,githubactions,kubernetes,nginx,linux,git,postman,mysql,python,tailwind,claude&perline=10" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,react,nextjs,postgres,docker,aws,laravel,php,redis,githubactions,kubernetes,nginx,linux,git,postman,mysql,python,tailwind,prisma&perline=10" />
 </p>
 
 ---
 
 ## 📌 Featured Projects
 
-> **Add 3–4 of your strongest projects here** (this section is very important)
-
 ### Project Name 1
-Short description of what you built, key features, and technologies used.  
-[Live Demo](link) • [Repository](link)
+Short description of the project and its key features.  
+**LIVE:** [Demo](https://your-live-link.com)
 
 ### Project Name 2
-Short description of what you built, key features, and technologies used.  
-[Live Demo](link) • [Repository](link)
+Short description of the project and its key features.  
+**LIVE:** [Demo](https://your-live-link.com)
 
 ### Project Name 3
-Short description of what you built, key features, and technologies used.  
-[Live Demo](link) • [Repository](link)
+Short description of the project and its key features.  
+**LIVE:** [Demo](https://your-live-link.com)
 
 ---
 
