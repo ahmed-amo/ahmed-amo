@@ -62,20 +62,30 @@ I enjoy owning features end-to-end — from clean backend architecture and APIs 
 </p>
 
 ---
-
 ## 📌 Featured Projects
 
-### Project Name 1
-Short description of the project and its key features.  
-**LIVE:** [Demo](https://your-live-link.com)
+### Aayla — Restaurant Ordering & Booking SaaS
+**Laravel • Next.js •React Native• PostgreSQL**
 
-### Project Name 2
-Short description of the project and its key features.  
-**LIVE:** [Demo](https://your-live-link.com)
+A multi-tenant SaaS platform for restaurants to manage online orders, reservations, menus, customers, and daily operations.
+**Live:** https://your-live-link.com
 
-### Project Name 3
-Short description of the project and its key features.  
-**LIVE:** [Demo](https://your-live-link.com)
+---
+
+### Alkama Cars Company — Import Management System
+**Laravel • React (Inertia.js) • PostgreSQL**
+
+An internal management system for a car importing company, handling customers, vehicles, customs clearance, payments, and logistics.
+**Live:** https://your-live-link.com
+
+---
+
+### BéBéDome — E-commerce Marketplace
+**Next.js • Laravel • PostgreSQL**
+
+A modern marketplace featuring product browsing, shopping cart, secure checkout, order management, and an admin dashboard.
+
+**Live:** https://your-live-link.com
 
 ---
 
