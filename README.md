@@ -58,10 +58,8 @@ I enjoy owning features end-to-end — from clean backend architecture and APIs 
 ## 🛠️ Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,react,nextjs,postgres,docker,aws,laravel,php,redis,githubactions,kubernetes,nginx,linux,git,postman,mysql,python,tailwind&perline=10" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,react,nextjs,postgres,docker,aws,laravel,php,redis,githubactions,kubernetes,nginx,linux,git,postman,mysql,python,tailwind,claude&perline=10" />
 </p>
-
-**AI Tools:** Cursor • Claude • ChatGPT
 
 ---
 
