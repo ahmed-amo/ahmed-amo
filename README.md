@@ -21,57 +21,67 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate **Full-Stack Engineer** focused on building **scalable SaaS platforms** and production-ready applications. 
+I'm a passionate **Full-Stack Engineer** focused on building **scalable SaaS platforms** and production-ready applications.
 
 I enjoy owning features end-to-end — from clean backend architecture and APIs to polished frontends and reliable deployment pipelines. Even without professional experience yet, I’ve built and deployed multiple full-stack projects that simulate real-world production environments.
-
-My core strengths:
-- Designing maintainable, scalable backend systems
-- Building modern, responsive frontends & mobile apps
-- Shipping to the cloud with Docker + AWS
 
 ---
 
 ## 🛠️ What I'm Strong In
 
-### Backend & Architecture
-- **NestJS** & **Laravel** – Clean architecture, multi-tenant SaaS patterns, RBAC, authentication
-- REST & GraphQL APIs
-- PostgreSQL database design & optimization
-- Background jobs & queues
-
-### Frontend & Mobile
-- **React** / **Next.js** – High-performance web apps and dashboards
-- **React Native** – Cross-platform mobile applications
-
-### Cloud & DevOps
-- **Docker** containerization
-- **AWS** (EC2, S3, RDS, deployment)
-- CI/CD with GitHub Actions
-- Linux servers + Nginx
-- Basic Kubernetes concepts (exploring ArgoCD/GitOps)
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <strong>Backend & Architecture</strong><br><br>
+      <img src="https://skillicons.dev/icons?i=nestjs,laravel,postgres,redis" /><br><br>
+      • Clean Architecture & Multi-tenant SaaS<br>
+      • RBAC & Authentication Systems<br>
+      • REST & GraphQL APIs<br>
+      • Database Design & Optimization (PostgreSQL)
+    </td>
+    <td width="33%" align="center">
+      <strong>Frontend & Mobile</strong><br><br>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,reactnative,ts" /><br><br>
+      • High-Performance Web Applications<br>
+      • Modern SaaS Dashboards (Next.js)<br>
+      • Cross-Platform Mobile Apps (React Native)
+    </td>
+    <td width="33%" align="center">
+      <strong>Cloud & DevOps</strong><br><br>
+      <img src="https://skillicons.dev/icons?i=docker,aws,githubactions,kubernetes" /><br><br>
+      • Docker Containerization<br>
+      • AWS Cloud Services & Deployment<br>
+      • CI/CD Pipelines<br>
+      • Linux + Nginx Production Setups
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,php,nodejs,nestjs,laravel,react,nextjs,reactnative,postgres,mysql,redis,docker,kubernetes,githubactions,aws,nginx,linux,git,postman&perline=11" />
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,react,nextjs,reactnative,postgres,docker,aws,laravel,php,redis,githubactions,kubernetes,nginx,linux,git,postman,mysql,python&perline=10" />
 </p>
 
 ---
 
 ## 📌 Featured Projects
 
-> **Add 3-4 of your best projects here** with short descriptions, tech stack, live links, and repo links.  
-> This section is critical for candidates without professional experience.
+> **Add 3–4 of your strongest projects here** (this section is very important)
 
-**Example:**
+### Project Name 1
+Short description of what you built, key features, and technologies used.  
+[Live Demo](link) • [Repository](link)
 
-### Multi-tenant SaaS Platform
-- Full-featured SaaS boilerplate with organizations, auth, and subscription-ready structure
-- Built with NestJS + Next.js + PostgreSQL + Docker
-- [Live Demo](...) • [Repo](...)
+### Project Name 2
+Short description of what you built, key features, and technologies used.  
+[Live Demo](link) • [Repository](link)
+
+### Project Name 3
+Short description of what you built, key features, and technologies used.  
+[Live Demo](link) • [Repository](link)
 
 ---
 
