@@ -3,10 +3,6 @@
 </h1>
 
 <p align="center">
-  Node.js • NestJS • Laravel • React • Next.js • React Native • PostgreSQL • Docker • AWS
-</p>
-
-<p align="center">
   🌍 Algeria — Open to Remote (EU / US / GCC)
 </p>
 
@@ -41,10 +37,10 @@ I enjoy owning features end-to-end — from clean backend architecture and APIs 
     </td>
     <td width="33%" align="center">
       <strong>Frontend & Mobile</strong><br><br>
-      <img src="https://skillicons.dev/icons?i=react,nextjs,reactnative,ts" /><br><br>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind" /><br><br>
       • High-Performance Web Applications<br>
       • Modern SaaS Dashboards (Next.js)<br>
-      • Cross-Platform Mobile Apps (React Native)
+      • Responsive & TypeScript-based UIs
     </td>
     <td width="33%" align="center">
       <strong>Cloud & DevOps</strong><br><br>
@@ -59,11 +55,13 @@ I enjoy owning features end-to-end — from clean backend architecture and APIs 
 
 ---
 
-## 🧰 Tech Stack
+## 🛠️ Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,react,nextjs,reactnative,postgres,docker,aws,laravel,php,redis,githubactions,kubernetes,nginx,linux,git,postman,mysql,python&perline=10" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,react,nextjs,postgres,docker,aws,laravel,php,redis,githubactions,kubernetes,nginx,linux,git,postman,mysql,python,tailwind&perline=10" />
 </p>
+
+**AI Tools:** Cursor • Claude • ChatGPT
 
 ---
 
