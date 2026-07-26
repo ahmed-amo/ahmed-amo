@@ -44,7 +44,7 @@ I enjoy owning features end-to-end — from clean backend architecture and APIs 
     </td>
     <td width="33%" align="center">
       <strong>Cloud & DevOps</strong><br><br>
-      <img src="https://skillicons.dev/icons?i=docker,aws,githubactions,kubernetes" /><br><br>
+      <img src="https://skillicons.dev/icons?i=docker,aws,githubactions" /><br><br>
       • Docker Containerization<br>
       • AWS Cloud Services & Deployment<br>
       • CI/CD Pipelines<br>
@@ -58,7 +58,7 @@ I enjoy owning features end-to-end — from clean backend architecture and APIs 
 ## 🛠️ Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,react,nextjs,postgres,docker,aws,laravel,php,redis,githubactions,kubernetes,nginx,linux,git,postman,mysql,python,tailwind,prisma&perline=10" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,react,nextjs,postgres,docker,aws,laravel,php,redis,githubactions,,nginx,linux,git,postman,mysql,python,tailwind,prisma&perline=10" />
 </p>
 
 ---
