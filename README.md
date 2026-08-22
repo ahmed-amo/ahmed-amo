@@ -76,7 +76,7 @@ A multi-tenant SaaS platform for restaurants to manage online orders, reservatio
 **Laravel • React (Inertia.js) • PostgreSQL**
 
 An internal management system for a car importing company, handling customers, vehicles, customs clearance, payments, and logistics.
-**Live:** https://your-live-link.com
+**Live:** https://alkama-cars-company.com/
 
 ---
 
@@ -85,13 +85,8 @@ An internal management system for a car importing company, handling customers, v
 
 A modern marketplace featuring product browsing, shopping cart, secure checkout, order management, and an admin dashboard.
 
-**Live:** https://your-live-link.com
+**Live:** https://bebedome-dz.com/
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ahmed-amo&theme=tokyonight&hide_border=true" />
-</p>
 
