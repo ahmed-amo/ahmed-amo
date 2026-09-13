@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  🌍 Algeria — Open to Remote (EU / US / GCC)
+  
 </p>
 
 <p align="center">
