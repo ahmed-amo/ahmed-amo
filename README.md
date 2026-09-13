@@ -1,5 +1,5 @@
 <h1 align="center">
-  Full-Stack Engineer | Building Scalable SaaS & Production Systems
+  Full-Stack Software Engineer | Building Scalable SaaS & Production Systems
 </h1>
 
 <p align="center">
