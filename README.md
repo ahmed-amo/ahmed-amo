@@ -58,7 +58,7 @@ I’m currently **available for freelance projects, remote opportunities, and fu
 ## 🛠️ Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,react,nextjs,postgres,docker,aws,laravel,php,redis,githubactions,,nginx,linux,git,postman,mysql,python,tailwind,prisma&perline=10" />
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,nodejs,nestjs,react,nextjs,postgres,prisma,docker,aws,laravel,php,redis,githubactions,nginx,linux,git,postman,mysql,python,tailwind&perline=10" />
 </p>
 
 ---
@@ -84,7 +84,7 @@ A modern marketplace featuring product browsing, shopping cart, secure checkout,
 **Live:** https://bebedome-dz.com/
 
 ---
-Weliox — Enterprise Billing & Management SaaS
+### Weliox — Enterprise Billing & Management SaaS
 
 NestJS • React • PostgreSQL
 A production-ready SaaS platform for businesses to manage invoices, quotes, payments, expenses, treasury, clients, and financial operations. Designed for multi-user and multi-company workflows with secure, scalable backend architecture.
