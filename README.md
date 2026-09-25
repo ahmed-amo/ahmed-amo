@@ -7,9 +7,8 @@
 </p>
 
 <p align="center">
-  <a href="https://ahmed-amo-dev.vercel.app">Portfolio</a> • 
-  <a href="https://github.com/ahmed-amo">GitHub</a> • 
-  <a href="https://www.linkedin.com/in/ahmed-amokrane-95122334b/">LinkedIn</a> • 
+  <a href="https://ahmed-amo-dev.vercel.app">Portfolio</a> --
+  <a href="https://www.linkedin.com/in/ahmed-amokrane-95122334b/">LinkedIn</a> 
 </p>
 
 ---
