@@ -17,9 +17,11 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate **Full-Stack Engineer** focused on building **scalable SaaS platforms** and production-ready applications.
+I’m a **Full-Stack Engineer** with hands-on experience building and deploying **production-ready web and mobile applications**, with a strong focus on scalable architecture, backend systems, and modern frontend development.
+I work across the full development lifecycle — from designing APIs and database architecture to building polished user interfaces, integrating third-party services, and setting up **Docker, CI/CD, and cloud deployments**.
+I’ve built and shipped real-world projects across **SaaS, e-commerce, real estate, and delivery**, using technologies including **Next.js, React, Laravel, Node.js, PostgreSQL, Docker, and GitHub Actions**.
+I’m currently **available for freelance projects, remote opportunities, and full-time roles**, and I’m comfortable taking ownership of features and products from development through deployment.
 
-I enjoy owning features end-to-end — from clean backend architecture and APIs to polished frontends and reliable deployment pipelines. Even without professional experience yet, I’ve built and deployed multiple full-stack projects that simulate real-world production environments.
 
 ---
 
