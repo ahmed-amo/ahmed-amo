@@ -64,17 +64,15 @@ I’m currently **available for freelance projects, remote opportunities, and fu
 ---
 ## 📌 Featured Projects
 
-### Aayla — Restaurant Ordering & Booking SaaS
+### Aayla — Restaurant Ordering & Booking SaaS 
 **Laravel • Next.js •React Native• PostgreSQL**
+Delivery Mobile App for restaurants to manage online orders, reservations, menus, customers, and daily operations.
 
-A multi-tenant SaaS platform for restaurants to manage online orders, reservations, menus, customers, and daily operations.
-**Live:** https://your-live-link.com
 
 ---
 
 ### Alkama Cars Company — Import Management System
 **Laravel • React (Inertia.js) • PostgreSQL**
-
 An internal management system for a car importing company, handling customers, vehicles, customs clearance, payments, and logistics.
 **Live:** https://alkama-cars-company.com/
 
@@ -82,11 +80,15 @@ An internal management system for a car importing company, handling customers, v
 
 ### BéBéDome — E-commerce Marketplace
 **Next.js • Laravel • PostgreSQL**
-
 A modern marketplace featuring product browsing, shopping cart, secure checkout, order management, and an admin dashboard.
-
 **Live:** https://bebedome-dz.com/
 
 ---
+Weliox — Enterprise Billing & Management SaaS
+
+NestJS • React • PostgreSQL
+A production-ready SaaS platform for businesses to manage invoices, quotes, payments, expenses, treasury, clients, and financial operations. Designed for multi-user and multi-company workflows with secure, scalable backend architecture.
+Live: https://weliox.pro/
+
 
 
