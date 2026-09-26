@@ -55,7 +55,7 @@ I’m currently **available for freelance projects, remote opportunities, and fu
 
 ---
 
-## 🛠️ Tools
+## 🛠️ Tech Stack And tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=typescript,javascript,nodejs,nestjs,react,nextjs,postgres,prisma,docker,aws,laravel,php,redis,githubactions,nginx,linux,git,postman,mysql,python,tailwind&perline=10" />
